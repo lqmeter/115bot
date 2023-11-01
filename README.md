@@ -15,7 +15,10 @@
 ## 常见问题
 
 Q: 设置好了机器人没反应
+
 A: 访问 [getWebhookInfo](https://api.telegram.org/bot%7Bmy_bot_token%7D/getWebhookInfo) 查看是否成功设置 webhook
 
+
 Q: cookie 失效
+
 A: 使用手机客户端抓取的 cookie，如果使用 alist，最好和 alist 部署在同一台服务器上
