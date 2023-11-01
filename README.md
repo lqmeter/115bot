@@ -16,7 +16,7 @@
 
 Q: 设置好了机器人没反应
 
-A: 访问 [getWebhookInfo](https://api.telegram.org/bot%7Bmy_bot_token%7D/getWebhookInfo) 查看是否成功设置 webhook
+A: 访问 [https://api.telegram.org/bot{my_bot_token}/getWebhookInfo](https://api.telegram.org/bot%7Bmy_bot_token%7D/getWebhookInfo) 查看是否成功设置 webhook
 
 Q: cookie 失效
 
